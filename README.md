@@ -49,6 +49,6 @@ Obsidian的简单嵌入式倒计时。
 3. 在侧面板而不是md文件中显示倒计时。
 
 ＃ 关于作者
-作者在 Javascript 和编程方面仍然是新手，如果您遇到任何问题，欢迎您 [此处](mailto:yw510@cantab.ac.uk) 与她联系。
+作者在 Javascript 和编程方面仍然是新手，如果您遇到任何问题，欢迎您点击 [此处](mailto:yw510@cantab.ac.uk) 与她联系。
 
 
