@@ -113,7 +113,7 @@ class SampleSettingTab extends PluginSettingTab {
 
 		containerEl.empty();
 
-		containerEl.createEl('h2', {text: 'Settings for my awesome plugin.'});
+		containerEl.createEl('h2', {text: 'Birthday Countdown Settings'});
 
 		new Setting(containerEl)
 			.setName('提醒范围设在几天之内？')
