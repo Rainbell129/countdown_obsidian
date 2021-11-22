@@ -11,8 +11,8 @@ Copy ```main.js``` ```manifest.json``` ```style.css``` in your local obsidian pl
 3. A stickie would be generated where your cursor is placed;
 4. You can also change the time zone in which a birthday would be filtered out in the Settings.
 
+<p align="center" width="100%"><img src="https://user-images.githubusercontent.com/58488160/142820583-163f23bb-9fd4-4a90-bd32-1cf9d39e490a.png" width="300"></p>
 
-![image](https://user-images.githubusercontent.com/58488160/142820583-163f23bb-9fd4-4a90-bd32-1cf9d39e490a.png)
 
 # Warning
 In the alpha version, the countdown stickie is only offered in Chinese, and can only be used with birthdays. 
