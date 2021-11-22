@@ -28,7 +28,7 @@ The author is still new at both Javascript and programming, you are welcome to r
 <br>
 
 # _Obsidian_ 的倒计时贴纸
-Obsidian的简单嵌入式倒计时。
+Obsidian的简单嵌入式倒计时，目前还看不出有什么作用。
 
 # 用法
 ## 安装
