@@ -24,7 +24,8 @@ In the future versions, You will be able to:
 # About the author
 The author is still new at both Javascript and programming, you are welcome to reach out to her [here](mailto:yw510@cantab.ac.uk) if you encounter any issue.
 
-
+<br>
+<br>
 
 # _Obsidian_ 的倒计时贴纸
 Obsidian的简单嵌入式倒计时。
@@ -34,7 +35,7 @@ Obsidian的简单嵌入式倒计时。
 将 ```main.js``` ```manifest.json``` ```style.css``` 复制到您本地的Obsidian第三方插件文件夹中。
 
 ## 开始
-1. 在_person/pet_md文件的YAML部分嵌入```birthday：YYYY-MM-DD```；
+1. 在 _person/pet_ md文件的YAML部分嵌入```birthday：YYYY-MM-DD```；
 2. 在命令列表中找到**Birthday Countdown：在当前文件中创建一个倒计时**；
 3. 命令执行后，光标所在位置会生成一个贴纸；
 4. 您还可以在“设置”中更改过滤生日的时间。
