@@ -35,7 +35,7 @@ Obsidian的简单嵌入式倒计时，目前还看不出有什么作用。
 将 ```main.js``` ```manifest.json``` ```style.css``` 复制到您本地的Obsidian第三方插件文件夹中。
 
 ## 开始
-1. 在 _person/pet_ md文件的YAML部分嵌入```birthday：YYYY-MM-DD```；
+1. 在 _人物/宠物_ 信息文件的YAML部分嵌入```birthday：YYYY-MM-DD```；
 2. 在命令列表中找到**Birthday Countdown：在当前文件中创建一个倒计时**；
 3. 命令执行后，光标所在位置会生成一个贴纸；
 4. 您还可以在“设置”中更改过滤生日的时间。
@@ -48,7 +48,7 @@ Obsidian的简单嵌入式倒计时，目前还看不出有什么作用。
 2. 展示各种风格和颜色的贴纸；
 3. 在侧面板而不是md文件中显示倒计时。
 
-＃ 关于作者
+# 关于作者
 作者在 Javascript 和编程方面仍然是新手，如果您遇到任何问题，欢迎您点击 [此处](mailto:yw510@cantab.ac.uk) 与她联系。
 
 
