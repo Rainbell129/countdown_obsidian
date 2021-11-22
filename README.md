@@ -3,7 +3,7 @@ A simple embedded countdown for Obsidian.
 
 # Usage
 ## Installation
-Copy ```main.js``` ```manifest.json``` ```style.css``` in your local obsidian plugin folder.
+Copy ```main.js``` ```manifest.json``` ```style.css``` into your local obsidian plugin folder.
 
 ## Get Started
 1. Embed a ```birthday: YYYY-MM-DD``` in the YAML section of a _person/pet_ md file;
