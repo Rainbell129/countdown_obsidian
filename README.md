@@ -22,7 +22,9 @@ In the future versions, You will be able to:
 3. show countdowns in the side panels instead of md files.
 
 # About the author
-The author is still new at both Javascript and programming, you are welcome to reach out to her [here](yw510@cantab.ac.uk) if you encounter any issue.
+The author is still new at both Javascript and programming, you are welcome to reach out to her [here](mailto:yw510@cantab.ac.uk) if you encounter any issue.
+
+
 
 # _Obsidian_ 的倒计时贴纸
 Obsidian的简单嵌入式倒计时。
@@ -46,6 +48,6 @@ Obsidian的简单嵌入式倒计时。
 3. 在侧面板而不是md文件中显示倒计时。
 
 ＃ 关于作者
-作者在 Javascript 和编程方面仍然是新手，如果您遇到任何问题，欢迎您 [此处](yw510@cantab.ac.uk) 与她联系。
+作者在 Javascript 和编程方面仍然是新手，如果您遇到任何问题，欢迎您 [此处](mailto:yw510@cantab.ac.uk) 与她联系。
 
 
